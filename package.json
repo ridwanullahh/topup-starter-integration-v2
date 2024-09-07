@@ -4,7 +4,12 @@
   "private": true,
   "author": {
     "name": "lokichaulagain",
-    "url": "https://twitter.com/lokichaulagain"
+    "email": "lokichaulagain@gmail.com",
+    "url": "https://lokendrachaulagain.com",
+    "organization": "Zylux IT Solution",
+    "organizationUrl": "https://www.zyluxitsolution.com",
+    "twitter": "@lokichaulagain",
+    "github": "@lokichaulagain"
   },
   "scripts": {
     "dev": "next dev",
